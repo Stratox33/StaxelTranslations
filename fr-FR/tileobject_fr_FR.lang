@@ -7,33 +7,33 @@ staxel.tileObject.airship.RopeFenceStraight.description=
 //TODO Translate [Reference] 'Rope Fence'
 staxel.tileObject.airship.RopeFenceStraight.name=
 //TODO Translate [Reference] 'This is where bees are kept. If a bee colony resides here they will slowly make and store honey inside here which can be harvested!'
-staxel.tileObject.animalFurniture.Apiary.description=
+staxel.tileObject.animalFurniture.Apiary.description='C'est là que les abeilles sont conservées. Si une colonie d'abeilles réside ici, ils vont lentement faire et conserver du miel à l'intérieur qui peut être récolté!'
 //TODO Translate [Reference] 'Apiary'
-staxel.tileObject.animalFurniture.Apiary.name=
+staxel.tileObject.animalFurniture.Apiary.name='Ruche'
 //TODO Translate [Reference] 'A little structure for chickens so they have a place to sleep at night. Very homely!'
-staxel.tileObject.animalFurniture.ChickenCoop.description=
+staxel.tileObject.animalFurniture.ChickenCoop.description='Une petite structure pour les poulets pour qu'ils aient un endroit où dormir la nuit. Très chaleureux!'
 //TODO Translate [Reference] 'Chicken Coop'
-staxel.tileObject.animalFurniture.ChickenCoop.name=
+staxel.tileObject.animalFurniture.ChickenCoop.name='Poulailler'
 //TODO Translate [Reference] 'A large area where chicken feed can be placed.'
-staxel.tileObject.animalFurniture.ChickenFeedAreaEmpty.description=
+staxel.tileObject.animalFurniture.ChickenFeedAreaEmpty.description='Une grande zone où l'alimentation pour les poules qui peut être placée.'
 //TODO Translate [Reference] 'Chicken Feeding Area'
-staxel.tileObject.animalFurniture.ChickenFeedAreaEmpty.name=
+staxel.tileObject.animalFurniture.ChickenFeedAreaEmpty.name='Zone d'alimentation pour les poules'
 //TODO Translate [Reference] 'A large area where chicken feed can be placed.'
-staxel.tileObject.animalFurniture.ChickenFeedAreaFull.description=
+staxel.tileObject.animalFurniture.ChickenFeedAreaFull.description='Une grande zone où l'alimentation pour les poules qui peut être placée.'
 //TODO Translate [Reference] 'Chicken Feeding Area'
-staxel.tileObject.animalFurniture.ChickenFeedAreaFull.name=
+staxel.tileObject.animalFurniture.ChickenFeedAreaFull.name='Zone d'alimentation pour les poules'
 staxel.tileObject.animalFurniture.ChickenSign.description=
 //TODO Translate [Reference] 'Chicken Sign'
-staxel.tileObject.animalFurniture.ChickenSign.name=
+staxel.tileObject.animalFurniture.ChickenSign.name='Panneau Poule'
 staxel.tileObject.animalFurniture.CowSign.description=
 //TODO Translate [Reference] 'Cow Sign'
-staxel.tileObject.animalFurniture.CowSign.name=
+staxel.tileObject.animalFurniture.CowSign.name='Panneau vache'
 staxel.tileObject.animalFurniture.PigSign.description=
 //TODO Translate [Reference] 'Pig Sign'
-staxel.tileObject.animalFurniture.PigSign.name=
+staxel.tileObject.animalFurniture.PigSign.name='Panneau Cochon'
 staxel.tileObject.animalFurniture.SheepSign.description=
 //TODO Translate [Reference] 'Sheep Sign'
-staxel.tileObject.animalFurniture.SheepSign.name=
+staxel.tileObject.animalFurniture.SheepSign.name='Panneau Mouton
 //TODO Translate [Reference] 'Fill with slop to feed your pigs.'
 staxel.tileObject.animalFurniture.SlopTroughEmpty.description=
 //TODO Translate [Reference] 'Empty Slop Trough'
